@@ -1,0 +1,277 @@
+[
+  {
+    "name": "Bruce",
+    "rollNo": 1,
+    "mid1": {
+      "telugu": 88,
+      "hindi": 82,
+      "english": 78
+    },
+    "mid2": {
+      "history": 80,
+      "geography": 90,
+      "civics": 80
+    },
+    "mid3": {
+      "physics": 85,
+      "chemistry": 90,
+      "biology": 85
+    }
+  },
+  {
+    "name": "Jeny",
+    "rollNo": 2,
+    "mid1": {
+      "telugu": 88,
+      "hindi": 82,
+      "english": 78
+    },
+    "mid2": {
+      "history": 85,
+      "geography": 90,
+      "civics": 80
+    },
+    "mid3": {
+      "physics": 80,
+      "chemistry": 85,
+      "biology": 90
+    }
+  },
+  {
+    "name": "Stacey",
+    "rollNo": 3,
+    "mid1": {
+      "telugu": 90,
+      "hindi": 95,
+      "english": 85
+    },
+    "mid2": {
+      "history": 88,
+      "geography": 82,
+      "civics": 86
+    },
+    "mid3": {
+      "physics": 90,
+      "chemistry": 92,
+      "biology": 95
+    }
+  },
+  {
+    "name": "George",
+    "rollNo": 4,
+    "mid1": {
+      "telugu": 90,
+      "hindi": 95,
+      "english": 85
+    },
+    "mid2": {
+      "history": 88,
+      "geography": 82,
+      "civics": 86
+    },
+    "mid3": {
+      "physics": 90,
+      "chemistry": 92,
+      "biology": 95
+    }
+  },
+  {
+    "name": "Vincent",
+    "rollNo": 5,
+    "mid1": {
+      "telugu": 80,
+      "hindi": 85,
+      "english": 90
+    },
+    "mid2": {
+      "history": 90,
+      "geography": 85,
+      "civics": 88
+    },
+    "mid3": {
+      "physics": 90,
+      "chemistry": 85,
+      "biology": 90
+    }
+  },
+  {
+    "name": "Bob",
+    "rollNo": 6,
+    "mid1": {
+      "telugu": 85,
+      "hindi": 90,
+      "english": 80
+    },
+    "mid2": {
+      "history": 85,
+      "geography": 88,
+      "civics": 90
+    },
+    "mid3": {
+      "physics": 88,
+      "chemistry": 85,
+      "biology": 92
+    }
+  },
+  {
+    "name": "Chris",
+    "rollNo": 7,
+    "mid1": {
+      "telugu": 85,
+      "hindi": 90,
+      "english": 80
+    },
+    "mid2": {
+      "history": 85,
+      "geography": 88,
+      "civics": 90
+    },
+    "mid3": {
+      "physics": 88,
+      "chemistry": 85,
+      "biology": 92
+    }
+  },
+  {
+    "name": "Xavior",
+    "rollNo": 8,
+    "mid1": {
+      "telugu": 85,
+      "hindi": 90,
+      "english": 80
+    },
+    "mid2": {
+      "history": 70,
+      "geography": 85,
+      "civics": 65
+    },
+    "mid3": {
+      "physics": 88,
+      "chemistry": 83,
+      "biology": 65
+    }
+  },
+  {
+    "name": "Mark",
+    "rollNo": 16,
+    "mid1": {
+      "telugu": 88,
+      "hindi": 82,
+      "english": 90
+    },
+    "mid2": {
+      "history": 80,
+      "geography": 90,
+      "civics": 85
+    },
+    "mid3": {
+      "physics": 85,
+      "chemistry": 95,
+      "biology": 85
+    }
+  },
+  {
+    "name": "Smith",
+    "rollNo": 17,
+    "mid1": {
+      "telugu": 95,
+      "hindi": 82,
+      "english": 78
+    },
+    "mid2": {
+      "history": 80,
+      "geography": 85,
+      "civics": 90
+    },
+    "mid3": {
+      "physics": 84,
+      "chemistry": 95,
+      "biology": 85
+    }
+  },
+  {
+    "name": "Max",
+    "rollNo": 26,
+    "mid1": {
+      "telugu": 90,
+      "hindi": 82,
+      "english": 78
+    },
+    "mid2": {
+      "history": 80,
+      "geography": 80,
+      "civics": 70
+    },
+    "mid3": {
+      "physics": 84,
+      "chemistry": 80,
+      "biology": 85
+    }
+  },
+  {
+    "name": "Henrich",
+    "rollNo": 27,
+    "mid1": {
+      "telugu": 90,
+      "hindi": 82,
+      "english": 78
+    },
+    "mid2": {
+      "history": 80,
+      "geography": 80,
+      "civics": 70
+    },
+    "mid3": {
+      "physics": 84,
+      "chemistry": 80,
+      "biology": 85
+    }
+  },
+  {
+    "name": "Jordan",
+    "rollNo": 28,
+    "mid1": {
+      "telugu": 90,
+      "hindi": 82,
+      "english": 78
+    },
+    "mid2": {
+      "history": 80,
+      "geography": 80,
+      "civics": 70
+    },
+    "mid3": {
+      "physics": 84,
+      "chemistry": 80,
+      "biology": 85
+    }
+  },
+  {
+    "name": "Michell",
+    "rollNo": 50,
+    "mid1": {
+      "telugu": 90,
+      "maths": 82,
+      "english": 78
+    },
+    "mid2": {
+      "history": 80,
+      "geography": 80,
+      "civics": 70
+    },
+    "mid3": {
+      "physics": 84,
+      "chemistry": 80,
+      "biology": 85
+    }
+  },
+  {
+    "name": "Max",
+    "rollNo": 558,
+    "marks": {
+      "maths": 31,
+      "physics": 40,
+      "chemistry": 44
+    }
+  }
+]
